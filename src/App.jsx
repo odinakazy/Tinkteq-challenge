@@ -1,5 +1,7 @@
+import BookingForm from "./components/bookingForm";
+
 function App() {
-  return <div className="bg-red-500 text-red">hello</div>;
+  return <BookingForm />;
 }
 
 export default App;

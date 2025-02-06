@@ -1,5 +1,7 @@
 # Tinkteq Challenge
 
+Multi step cargo shipping
+
 This repository contains the solution for the Tinkteq Challenge. It is a React project that is built using Vite as the development tool.
 
 ## Setup Instructions
